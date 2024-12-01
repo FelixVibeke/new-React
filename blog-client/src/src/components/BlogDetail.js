@@ -54,7 +54,7 @@ const BlogDetail = ({ title, content, _id, onDelete }) => {
                   </ModalButton>
                   <ModalButton onClick={() => onDelete(_id)}>
                     <FiTrash2 />
-                    <span style={{ marginLeft: '3px' }}>Delete Blog</span>
+                    <span style={{ marginLeft: '3px' }}>Delete Blog111</span>
                   </ModalButton>
                 </Wrapper>
               </ModalContent>
